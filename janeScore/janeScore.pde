@@ -7,7 +7,7 @@ int randomInt;
 for (int i = 1; i <= 6; i++) {
   randomFloat = random(1, 26);
   randomInt = (int) randomFloat; //cast til int //<>//
-  scoreJane += randomFloat;
+  scoreJane += randomInt;
   println("Janes score er " + scoreJane);
 }
 
