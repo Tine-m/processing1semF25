@@ -1,4 +1,4 @@
 # Tine Marbjerg
 
 
-### Daniel Hangaard - collaborater
+### Daniel Hangaard - collaborator
